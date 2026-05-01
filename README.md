@@ -5,6 +5,13 @@
 **Developed in collaboration with ChatGPT**  
 **RWB Tech Lab**
 
+## 📜 License
+
+This project is licensed under the MIT License.
+
+© Robert William Blennerhed (RWB Tech Lab)
+Developed in collaboration with ChatGPT
+
 ---
 
 ## 📱 Mobile 2FA App in Python (TOTP)
